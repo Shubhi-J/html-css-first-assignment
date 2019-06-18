@@ -1,0 +1,16 @@
+body {
+	background-color:#e3e3e3;
+	background-size:100% 100%;
+}
+
+.inner-div {
+	margin-left:35%;
+}
+
+blockquote p{
+    	border: 1px solid white;
+	width:50%;
+    	text-align: center;
+	padding:20px;
+	margin-left:-40px;
+}
